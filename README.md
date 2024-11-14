@@ -1,6 +1,3 @@
-# Group17-Project-3380
-
----
 
 # Animal Crossing: New Horizons Catalog Interface
 
