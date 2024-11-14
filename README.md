@@ -31,12 +31,6 @@ Upon initiating the CLI, users are greeted with a welcome message outlining all 
 - `h` - Display help information
 - `e` - Quit the interface
 
-## Contributors
-
-1. Yugam Amish Patel
-2. Heetkumar Patel
-3. Dhvani Thakkar
-
 ## Features
 
 - Command line interface (CLI) for user interaction
